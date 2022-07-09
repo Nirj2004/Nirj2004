@@ -7,10 +7,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working at ... Microsoft 
 - 🌱 I’m currently learning ... Vue.js
+- 👨‍💻 Repository that I am currently working on: ... TORCHGEO.
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything about tech.😉
 - 📫 How to reach me: ... [Email-ID](nirjharbiswas2004@gmail.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am an Indian.
-- 👨‍💻 Repository that I am currently working on: ... TORCHGEO.
+
 
