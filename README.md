@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p><img align="center" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="500" height="330" /></p>
+<p><img align="center" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="700" height="500" /></p>
 
 Here are some ideas to get you started:
 
@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Email-ID](nirjharbiswas2004@gmail.com)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I and adn Indian.
--->
+- ⚡ Fun fact: ... I am an Indian.
+
