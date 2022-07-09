@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working in ... Microsoft 
+- 🔭 I’m currently working at ... Microsoft 
 - 🌱 I’m currently learning ... Vue.js
 
 - 🤔 I’m looking for help with ... AWS
