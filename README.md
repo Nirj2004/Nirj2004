@@ -1,4 +1,4 @@
-##                     Hi there 👋
+#                    Hi there 👋
 #### I am Nirjhar Biswas a software developer and an ethical hacker.
 <img src="https://img.shields.io/twitter/url?style=social&url=https://twitter.com/@NirjharBiswas5">
 <p><img align="center" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="1000" height="500" /></p>
