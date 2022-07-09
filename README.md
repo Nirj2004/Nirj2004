@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👨‍💻 Repository that I am currently working on: ... TORCHGEO.
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything about tech.😉
-- 📫 How to reach me: ... [Email-ID](nirjharbiswas2004@gmail.com)
+- 📫 How to reach me: ... [Website](https://github.com/Nirj2004/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am an Indian.
 
