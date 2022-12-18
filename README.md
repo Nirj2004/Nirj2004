@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything about tech.😉
 - 📫 How to reach me: ... [Website](https://github.com/Nirj2004/)
 - 😄 Pronouns: ... He/Hindu.
-- ⚡ Fun fact: ... I am an Indian.
