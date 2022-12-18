@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 👨‍💻 Personal repository that I am currently working on: ... MALSAND.
 - 🤔 I’m looking for help with ... Anything related to Software Engineering and Development & Cybersecurity.
 - 💬 Ask me about ... Anything about tech.😉
-- 📫 How to reach me: ... [Website](https://github.com/Nirj2004/)
+- 📫 How to reach me: ... [Website](https://github.com/Nirj2004/) & E-mail me on nirjharbiswas2021@protonmail.com
 - 😄 Pronouns: ... He/Hindu.
