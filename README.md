@@ -1,5 +1,5 @@
-#                    Hi there 👋
-#### I am Nirjhar Biswas a software developer and an ethical hacker.
+##                    Hi there 👋
+#### I am Nirjhar Biswas a software developer and a Cybersecurity Researcher.
 <img src="https://img.shields.io/twitter/url?style=social&url=https://twitter.com/@NirjharBiswas5">
 <p><img align="center" src="https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif" width="1000" height="500" /></p>
 
