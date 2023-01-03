@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 👨‍💻 Personal repository that I am currently working on: ... [Currentcast](https://github.com/Nirj2004/Currentcast).
 - 🤔 I’m looking for help with ... Anything related to Software Engineering and Development & Cybersecurity.
 - 💬 Ask me about ... Anything about tech.😉
-- 📫 How to reach me: ... [Nirj2004's Github](https://github.com/Nirj2004/) & E-mail me on [E-mail](nirjharbiswas2021@protonmail.com)
+- 📫 How to reach me: ... [Nirj2004's Github](https://github.com/Nirj2004/) & [E-mail](nirjharbiswas2021@protonmail.com) me on 
 - 😄 Pronouns: ... He/Hindu.
