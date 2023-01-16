@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 👨‍💻 Personal repository that I am currently working on: ... [Currentcast](https://github.com/Nirj2004/Currentcast)👨‍💻.
 - 💬 Ask me about ... Anything related to Software Engineering and Development & Cybersecurity.😉
 - 📫 How to reach me: ... [Nirj2004's Github](https://github.com/Nirj2004/) 📄& [E-mail](nirjharbiswas2021@protonmail.com)📧.
-- 😄 Pronouns: ... He/Hindu🕉️
+- 😄 Religionm: Hindu🕉️
