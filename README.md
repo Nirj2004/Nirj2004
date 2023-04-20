@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything related to Software Engineering and Development & Cybersecurity.😉
 - 📫 How to reach me: ... [Nirj2004's Github](https://github.com/Nirj2004/) 📄& [E-mail](https://www.protonmail.com/nirjharbiswas2021@protonmail.com)📧.
 - 😄 Religion: Hindu🕉️
+- Nationality: Indian🇮🇳 
